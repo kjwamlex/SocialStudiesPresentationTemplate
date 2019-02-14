@@ -1,0 +1,567 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		889333EB1D0BD59D00C1BC02 /* 스크린샷 2016-06-10 오후 10.13.15.png in Resources */ = {isa = PBXBuildFile; fileRef = 889333EA1D0BD59D00C1BC02 /* 스크린샷 2016-06-10 오후 10.13.15.png */; };
+		889333ED1D0BD62800C1BC02 /* 스크린샷 2016-06-10 오후 10.12.47.png in Resources */ = {isa = PBXBuildFile; fileRef = 889333EC1D0BD62800C1BC02 /* 스크린샷 2016-06-10 오후 10.12.47.png */; };
+		889333EF1D0BD68F00C1BC02 /* 스크린샷 2016-06-10 오후 10.13.09.png in Resources */ = {isa = PBXBuildFile; fileRef = 889333EE1D0BD68F00C1BC02 /* 스크린샷 2016-06-10 오후 10.13.09.png */; };
+		889333F11D0BD74600C1BC02 /* 스크린샷 2016-06-10 오후 10.13.02.png in Resources */ = {isa = PBXBuildFile; fileRef = 889333F01D0BD74600C1BC02 /* 스크린샷 2016-06-10 오후 10.13.02.png */; };
+		88B708E41D0BC2BA00EE7201 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88B708E31D0BC2BA00EE7201 /* AppDelegate.swift */; };
+		88B708E61D0BC2BA00EE7201 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88B708E51D0BC2BA00EE7201 /* ViewController.swift */; };
+		88B708E91D0BC2BA00EE7201 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 88B708E71D0BC2BA00EE7201 /* Main.storyboard */; };
+		88B708EB1D0BC2BA00EE7201 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 88B708EA1D0BC2BA00EE7201 /* Assets.xcassets */; };
+		88B708EE1D0BC2BA00EE7201 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 88B708EC1D0BC2BA00EE7201 /* LaunchScreen.storyboard */; };
+		88B708F91D0BC2BA00EE7201 /* Socials_ProjectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88B708F81D0BC2BA00EE7201 /* Socials_ProjectTests.swift */; };
+		88B709041D0BC2BA00EE7201 /* Socials_ProjectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88B709031D0BC2BA00EE7201 /* Socials_ProjectUITests.swift */; };
+		88B709121D0BC8D900EE7201 /* Simulator Screen Shot 2016. 6. 8. 오전 11.48.02.png in Resources */ = {isa = PBXBuildFile; fileRef = 88B709111D0BC8D900EE7201 /* Simulator Screen Shot 2016. 6. 8. 오전 11.48.02.png */; };
+		88EC5A591D0BCBEA00F27550 /* Education Socials.png in Resources */ = {isa = PBXBuildFile; fileRef = 88EC5A581D0BCBEA00F27550 /* Education Socials.png */; };
+		88EC5A5B1D0BCCF000F27550 /* economy.png in Resources */ = {isa = PBXBuildFile; fileRef = 88EC5A5A1D0BCCF000F27550 /* economy.png */; };
+		88EC5A5D1D0BCD7300F27550 /* GOvernment.png in Resources */ = {isa = PBXBuildFile; fileRef = 88EC5A5C1D0BCD7300F27550 /* GOvernment.png */; };
+		88EC5A5F1D0BCE2A00F27550 /* military.png in Resources */ = {isa = PBXBuildFile; fileRef = 88EC5A5E1D0BCE2A00F27550 /* military.png */; };
+		88EC5A611D0BD00200F27550 /* Languageand culture.png in Resources */ = {isa = PBXBuildFile; fileRef = 88EC5A601D0BD00200F27550 /* Languageand culture.png */; };
+		88EC5A631D0BD17500F27550 /* railway.png in Resources */ = {isa = PBXBuildFile; fileRef = 88EC5A621D0BD17500F27550 /* railway.png */; };
+		88EC5A651D0BD27900F27550 /* minoritygroups.png in Resources */ = {isa = PBXBuildFile; fileRef = 88EC5A641D0BD27900F27550 /* minoritygroups.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		88B708F51D0BC2BA00EE7201 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 88B708D81D0BC2BA00EE7201 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 88B708DF1D0BC2BA00EE7201;
+			remoteInfo = "Socials Project";
+		};
+		88B709001D0BC2BA00EE7201 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 88B708D81D0BC2BA00EE7201 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 88B708DF1D0BC2BA00EE7201;
+			remoteInfo = "Socials Project";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		889333EA1D0BD59D00C1BC02 /* 스크린샷 2016-06-10 오후 10.13.15.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2016-06-10 오후 10.13.15.png"; sourceTree = "<group>"; };
+		889333EC1D0BD62800C1BC02 /* 스크린샷 2016-06-10 오후 10.12.47.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2016-06-10 오후 10.12.47.png"; sourceTree = "<group>"; };
+		889333EE1D0BD68F00C1BC02 /* 스크린샷 2016-06-10 오후 10.13.09.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2016-06-10 오후 10.13.09.png"; sourceTree = "<group>"; };
+		889333F01D0BD74600C1BC02 /* 스크린샷 2016-06-10 오후 10.13.02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "스크린샷 2016-06-10 오후 10.13.02.png"; sourceTree = "<group>"; };
+		88B708E01D0BC2BA00EE7201 /* Socials Project.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Socials Project.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		88B708E31D0BC2BA00EE7201 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		88B708E51D0BC2BA00EE7201 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		88B708E81D0BC2BA00EE7201 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		88B708EA1D0BC2BA00EE7201 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		88B708ED1D0BC2BA00EE7201 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		88B708EF1D0BC2BA00EE7201 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		88B708F41D0BC2BA00EE7201 /* Socials ProjectTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Socials ProjectTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		88B708F81D0BC2BA00EE7201 /* Socials_ProjectTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Socials_ProjectTests.swift; sourceTree = "<group>"; };
+		88B708FA1D0BC2BA00EE7201 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		88B708FF1D0BC2BA00EE7201 /* Socials ProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Socials ProjectUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		88B709031D0BC2BA00EE7201 /* Socials_ProjectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Socials_ProjectUITests.swift; sourceTree = "<group>"; };
+		88B709051D0BC2BA00EE7201 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		88B709111D0BC8D900EE7201 /* Simulator Screen Shot 2016. 6. 8. 오전 11.48.02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot 2016. 6. 8. 오전 11.48.02.png"; sourceTree = "<group>"; };
+		88EC5A581D0BCBEA00F27550 /* Education Socials.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Education Socials.png"; sourceTree = "<group>"; };
+		88EC5A5A1D0BCCF000F27550 /* economy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = economy.png; sourceTree = "<group>"; };
+		88EC5A5C1D0BCD7300F27550 /* GOvernment.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = GOvernment.png; sourceTree = "<group>"; };
+		88EC5A5E1D0BCE2A00F27550 /* military.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = military.png; sourceTree = "<group>"; };
+		88EC5A601D0BD00200F27550 /* Languageand culture.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Languageand culture.png"; sourceTree = "<group>"; };
+		88EC5A621D0BD17500F27550 /* railway.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = railway.png; sourceTree = "<group>"; };
+		88EC5A641D0BD27900F27550 /* minoritygroups.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = minoritygroups.png; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		88B708DD1D0BC2BA00EE7201 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		88B708F11D0BC2BA00EE7201 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		88B708FC1D0BC2BA00EE7201 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		88B708D71D0BC2BA00EE7201 = {
+			isa = PBXGroup;
+			children = (
+				88B708E21D0BC2BA00EE7201 /* Socials Project */,
+				88B708F71D0BC2BA00EE7201 /* Socials ProjectTests */,
+				88B709021D0BC2BA00EE7201 /* Socials ProjectUITests */,
+				88B708E11D0BC2BA00EE7201 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		88B708E11D0BC2BA00EE7201 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				88B708E01D0BC2BA00EE7201 /* Socials Project.app */,
+				88B708F41D0BC2BA00EE7201 /* Socials ProjectTests.xctest */,
+				88B708FF1D0BC2BA00EE7201 /* Socials ProjectUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		88B708E21D0BC2BA00EE7201 /* Socials Project */ = {
+			isa = PBXGroup;
+			children = (
+				88B708E31D0BC2BA00EE7201 /* AppDelegate.swift */,
+				88B708E51D0BC2BA00EE7201 /* ViewController.swift */,
+				88B708E71D0BC2BA00EE7201 /* Main.storyboard */,
+				88B708EA1D0BC2BA00EE7201 /* Assets.xcassets */,
+				88B708EC1D0BC2BA00EE7201 /* LaunchScreen.storyboard */,
+				88EC5A581D0BCBEA00F27550 /* Education Socials.png */,
+				88EC5A5C1D0BCD7300F27550 /* GOvernment.png */,
+				889333EA1D0BD59D00C1BC02 /* 스크린샷 2016-06-10 오후 10.13.15.png */,
+				889333F01D0BD74600C1BC02 /* 스크린샷 2016-06-10 오후 10.13.02.png */,
+				88EC5A5E1D0BCE2A00F27550 /* military.png */,
+				889333EC1D0BD62800C1BC02 /* 스크린샷 2016-06-10 오후 10.12.47.png */,
+				88B709111D0BC8D900EE7201 /* Simulator Screen Shot 2016. 6. 8. 오전 11.48.02.png */,
+				88EC5A641D0BD27900F27550 /* minoritygroups.png */,
+				889333EE1D0BD68F00C1BC02 /* 스크린샷 2016-06-10 오후 10.13.09.png */,
+				88EC5A601D0BD00200F27550 /* Languageand culture.png */,
+				88EC5A621D0BD17500F27550 /* railway.png */,
+				88EC5A5A1D0BCCF000F27550 /* economy.png */,
+				88B708EF1D0BC2BA00EE7201 /* Info.plist */,
+			);
+			path = "Socials Project";
+			sourceTree = "<group>";
+		};
+		88B708F71D0BC2BA00EE7201 /* Socials ProjectTests */ = {
+			isa = PBXGroup;
+			children = (
+				88B708F81D0BC2BA00EE7201 /* Socials_ProjectTests.swift */,
+				88B708FA1D0BC2BA00EE7201 /* Info.plist */,
+			);
+			path = "Socials ProjectTests";
+			sourceTree = "<group>";
+		};
+		88B709021D0BC2BA00EE7201 /* Socials ProjectUITests */ = {
+			isa = PBXGroup;
+			children = (
+				88B709031D0BC2BA00EE7201 /* Socials_ProjectUITests.swift */,
+				88B709051D0BC2BA00EE7201 /* Info.plist */,
+			);
+			path = "Socials ProjectUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		88B708DF1D0BC2BA00EE7201 /* Socials Project */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 88B709081D0BC2BA00EE7201 /* Build configuration list for PBXNativeTarget "Socials Project" */;
+			buildPhases = (
+				88B708DC1D0BC2BA00EE7201 /* Sources */,
+				88B708DD1D0BC2BA00EE7201 /* Frameworks */,
+				88B708DE1D0BC2BA00EE7201 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Socials Project";
+			productName = "Socials Project";
+			productReference = 88B708E01D0BC2BA00EE7201 /* Socials Project.app */;
+			productType = "com.apple.product-type.application";
+		};
+		88B708F31D0BC2BA00EE7201 /* Socials ProjectTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 88B7090B1D0BC2BA00EE7201 /* Build configuration list for PBXNativeTarget "Socials ProjectTests" */;
+			buildPhases = (
+				88B708F01D0BC2BA00EE7201 /* Sources */,
+				88B708F11D0BC2BA00EE7201 /* Frameworks */,
+				88B708F21D0BC2BA00EE7201 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				88B708F61D0BC2BA00EE7201 /* PBXTargetDependency */,
+			);
+			name = "Socials ProjectTests";
+			productName = "Socials ProjectTests";
+			productReference = 88B708F41D0BC2BA00EE7201 /* Socials ProjectTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		88B708FE1D0BC2BA00EE7201 /* Socials ProjectUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 88B7090E1D0BC2BA00EE7201 /* Build configuration list for PBXNativeTarget "Socials ProjectUITests" */;
+			buildPhases = (
+				88B708FB1D0BC2BA00EE7201 /* Sources */,
+				88B708FC1D0BC2BA00EE7201 /* Frameworks */,
+				88B708FD1D0BC2BA00EE7201 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				88B709011D0BC2BA00EE7201 /* PBXTargetDependency */,
+			);
+			name = "Socials ProjectUITests";
+			productName = "Socials ProjectUITests";
+			productReference = 88B708FF1D0BC2BA00EE7201 /* Socials ProjectUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		88B708D81D0BC2BA00EE7201 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0730;
+				LastUpgradeCheck = 0730;
+				ORGANIZATIONNAME = "Joonwoo Kim";
+				TargetAttributes = {
+					88B708DF1D0BC2BA00EE7201 = {
+						CreatedOnToolsVersion = 7.3.1;
+						LastSwiftMigration = 0800;
+					};
+					88B708F31D0BC2BA00EE7201 = {
+						CreatedOnToolsVersion = 7.3.1;
+						LastSwiftMigration = 0800;
+						TestTargetID = 88B708DF1D0BC2BA00EE7201;
+					};
+					88B708FE1D0BC2BA00EE7201 = {
+						CreatedOnToolsVersion = 7.3.1;
+						LastSwiftMigration = 0800;
+						TestTargetID = 88B708DF1D0BC2BA00EE7201;
+					};
+				};
+			};
+			buildConfigurationList = 88B708DB1D0BC2BA00EE7201 /* Build configuration list for PBXProject "Socials Project" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 88B708D71D0BC2BA00EE7201;
+			productRefGroup = 88B708E11D0BC2BA00EE7201 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				88B708DF1D0BC2BA00EE7201 /* Socials Project */,
+				88B708F31D0BC2BA00EE7201 /* Socials ProjectTests */,
+				88B708FE1D0BC2BA00EE7201 /* Socials ProjectUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		88B708DE1D0BC2BA00EE7201 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				889333EB1D0BD59D00C1BC02 /* 스크린샷 2016-06-10 오후 10.13.15.png in Resources */,
+				88EC5A591D0BCBEA00F27550 /* Education Socials.png in Resources */,
+				88EC5A5D1D0BCD7300F27550 /* GOvernment.png in Resources */,
+				889333EF1D0BD68F00C1BC02 /* 스크린샷 2016-06-10 오후 10.13.09.png in Resources */,
+				889333ED1D0BD62800C1BC02 /* 스크린샷 2016-06-10 오후 10.12.47.png in Resources */,
+				88EC5A5F1D0BCE2A00F27550 /* military.png in Resources */,
+				88EC5A631D0BD17500F27550 /* railway.png in Resources */,
+				88EC5A611D0BD00200F27550 /* Languageand culture.png in Resources */,
+				88B708EE1D0BC2BA00EE7201 /* LaunchScreen.storyboard in Resources */,
+				88B708EB1D0BC2BA00EE7201 /* Assets.xcassets in Resources */,
+				88EC5A651D0BD27900F27550 /* minoritygroups.png in Resources */,
+				88B709121D0BC8D900EE7201 /* Simulator Screen Shot 2016. 6. 8. 오전 11.48.02.png in Resources */,
+				889333F11D0BD74600C1BC02 /* 스크린샷 2016-06-10 오후 10.13.02.png in Resources */,
+				88EC5A5B1D0BCCF000F27550 /* economy.png in Resources */,
+				88B708E91D0BC2BA00EE7201 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		88B708F21D0BC2BA00EE7201 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		88B708FD1D0BC2BA00EE7201 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		88B708DC1D0BC2BA00EE7201 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				88B708E61D0BC2BA00EE7201 /* ViewController.swift in Sources */,
+				88B708E41D0BC2BA00EE7201 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		88B708F01D0BC2BA00EE7201 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				88B708F91D0BC2BA00EE7201 /* Socials_ProjectTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		88B708FB1D0BC2BA00EE7201 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				88B709041D0BC2BA00EE7201 /* Socials_ProjectUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		88B708F61D0BC2BA00EE7201 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 88B708DF1D0BC2BA00EE7201 /* Socials Project */;
+			targetProxy = 88B708F51D0BC2BA00EE7201 /* PBXContainerItemProxy */;
+		};
+		88B709011D0BC2BA00EE7201 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 88B708DF1D0BC2BA00EE7201 /* Socials Project */;
+			targetProxy = 88B709001D0BC2BA00EE7201 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		88B708E71D0BC2BA00EE7201 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				88B708E81D0BC2BA00EE7201 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		88B708EC1D0BC2BA00EE7201 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				88B708ED1D0BC2BA00EE7201 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		88B709061D0BC2BA00EE7201 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		88B709071D0BC2BA00EE7201 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		88B709091D0BC2BA00EE7201 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "Socials Project/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "Joonwoo.Socials-Project";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		88B7090A1D0BC2BA00EE7201 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "Socials Project/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "Joonwoo.Socials-Project";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+		88B7090C1D0BC2BA00EE7201 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = "Socials ProjectTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "Joonwoo.Socials-ProjectTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Socials Project.app/Socials Project";
+			};
+			name = Debug;
+		};
+		88B7090D1D0BC2BA00EE7201 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = "Socials ProjectTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "Joonwoo.Socials-ProjectTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Socials Project.app/Socials Project";
+			};
+			name = Release;
+		};
+		88B7090F1D0BC2BA00EE7201 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = "Socials ProjectUITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "Joonwoo.Socials-ProjectUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_TARGET_NAME = "Socials Project";
+			};
+			name = Debug;
+		};
+		88B709101D0BC2BA00EE7201 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = "Socials ProjectUITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "Joonwoo.Socials-ProjectUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_TARGET_NAME = "Socials Project";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		88B708DB1D0BC2BA00EE7201 /* Build configuration list for PBXProject "Socials Project" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				88B709061D0BC2BA00EE7201 /* Debug */,
+				88B709071D0BC2BA00EE7201 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		88B709081D0BC2BA00EE7201 /* Build configuration list for PBXNativeTarget "Socials Project" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				88B709091D0BC2BA00EE7201 /* Debug */,
+				88B7090A1D0BC2BA00EE7201 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		88B7090B1D0BC2BA00EE7201 /* Build configuration list for PBXNativeTarget "Socials ProjectTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				88B7090C1D0BC2BA00EE7201 /* Debug */,
+				88B7090D1D0BC2BA00EE7201 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		88B7090E1D0BC2BA00EE7201 /* Build configuration list for PBXNativeTarget "Socials ProjectUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				88B7090F1D0BC2BA00EE7201 /* Debug */,
+				88B709101D0BC2BA00EE7201 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 88B708D81D0BC2BA00EE7201 /* Project object */;
+}
